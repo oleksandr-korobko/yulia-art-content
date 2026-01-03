@@ -8,6 +8,12 @@ coverImage: "/images/works/the-weight-of-silence/cover.jpg"
 images:
   - "/images/works/the-weight-of-silence/01.jpg"
   - "/images/works/the-weight-of-silence/02.jpg"
+  - "/images/works/the-weight-of-silence/03.jpg"
+  - "/images/works/the-weight-of-silence/04.jpg"
+  - "/images/works/the-weight-of-silence/05.jpg"
+  - "/images/works/the-weight-of-silence/06.jpg"
+  - "/images/works/the-weight-of-silence/07.jpg"
+  - "/images/works/the-weight-of-silence/08.jpg"
 shortDescription: "Black vinyl text fixed with sellotape, holding language in tension between visibility and release."
 featured: false
 ---

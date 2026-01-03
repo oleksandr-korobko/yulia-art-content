@@ -10,6 +10,15 @@ images:
   - "/images/works/stolen-voice-of-ukraine/02.jpg"
   - "/images/works/stolen-voice-of-ukraine/03.jpg"
   - "/images/works/stolen-voice-of-ukraine/04.jpg"
+  - "/images/works/stolen-voice-of-ukraine/05.jpg"
+  - "/images/works/stolen-voice-of-ukraine/06.jpg"
+  - "/images/works/stolen-voice-of-ukraine/07.jpg"
+  - "/images/works/stolen-voice-of-ukraine/08.jpg"
+  - "/images/works/stolen-voice-of-ukraine/09.jpg"
+  - "/images/works/stolen-voice-of-ukraine/10.jpg"
+  - "/images/works/stolen-voice-of-ukraine/11.jpg"
+  - "/images/works/stolen-voice-of-ukraine/12.jpg"
+  - "/images/works/stolen-voice-of-ukraine/13.jpg"
 shortDescription: "Archival installation engaging with Mykhailo Boichuk's case file, revealing Soviet cultural repression through nearly 500 pages."
 featured: true
 ---

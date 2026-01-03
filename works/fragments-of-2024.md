@@ -9,7 +9,6 @@ images:
   - "/images/works/fragments-of-2024/01.jpg"
   - "/images/works/fragments-of-2024/02.jpg"
   - "/images/works/fragments-of-2024/03.jpg"
-  - "/images/works/fragments-of-2024/04.jpg"
 shortDescription: "77 instant photographs documenting war-damaged Ukrainian cities, repurposing the format of pleasant memories for witnessing."
 featured: false
 ---

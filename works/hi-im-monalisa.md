@@ -9,6 +9,12 @@ images:
   - "/images/works/hi-im-monalisa/01.jpg"
   - "/images/works/hi-im-monalisa/02.jpg"
   - "/images/works/hi-im-monalisa/03.jpg"
+  - "/images/works/hi-im-monalisa/04.jpg"
+  - "/images/works/hi-im-monalisa/05.jpg"
+  - "/images/works/hi-im-monalisa/06.jpg"
+  - "/images/works/hi-im-monalisa/07.jpg"
+  - "/images/works/hi-im-monalisa/08.jpg"
+  - "/images/works/hi-im-monalisa/09.jpg"
 shortDescription: "Ongoing installation pairing a rescued iris from Kyiv academy ruins with a handwritten diary tracing exile and memory."
 featured: false
 ---

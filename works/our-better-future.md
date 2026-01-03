@@ -9,6 +9,18 @@ images:
   - "/images/works/our-better-future/01.jpg"
   - "/images/works/our-better-future/02.jpg"
   - "/images/works/our-better-future/03.jpg"
+  - "/images/works/our-better-future/04.jpg"
+  - "/images/works/our-better-future/05.jpg"
+  - "/images/works/our-better-future/06.jpg"
+  - "/images/works/our-better-future/07.jpg"
+  - "/images/works/our-better-future/08.jpg"
+  - "/images/works/our-better-future/09.jpg"
+  - "/images/works/our-better-future/10.jpg"
+  - "/images/works/our-better-future/11.jpg"
+  - "/images/works/our-better-future/12.jpg"
+  - "/images/works/our-better-future/13.jpg"
+  - "/images/works/our-better-future/14.jpg"
+  - "/images/works/our-better-future/15.jpg"
 shortDescription: "Participatory installation inviting collective reflection on peace through symbolic paper plane contributions."
 featured: false
 ---

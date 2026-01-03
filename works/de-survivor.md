@@ -8,6 +8,8 @@ coverImage: "/images/works/de-survivor/cover.jpg"
 images:
   - "/images/works/de-survivor/01.jpg"
   - "/images/works/de-survivor/02.jpg"
+  - "/images/works/de-survivor/03.jpg"
+  - "/images/works/de-survivor/04.jpg"
 shortDescription: "Ceramic cup recovered intact from the ruins of a missile-struck residential building in Kharkiv."
 featured: false
 ---

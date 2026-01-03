@@ -9,6 +9,12 @@ images:
   - "/images/works/the-escape/01.jpg"
   - "/images/works/the-escape/02.jpg"
   - "/images/works/the-escape/03.jpg"
+  - "/images/works/the-escape/04.jpg"
+  - "/images/works/the-escape/05.jpg"
+  - "/images/works/the-escape/06.jpg"
+  - "/images/works/the-escape/07.jpg"
+  - "/images/works/the-escape/08.jpg"
+  - "/images/works/the-escape/09.jpg"
 shortDescription: "Installation reconstructing personal belongings carried during forced displacement on February 24, 2022, suspended from barbed wire."
 featured: true
 ---

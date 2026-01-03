@@ -8,6 +8,12 @@ coverImage: "/images/works/i-have-to-leave-my-childhood-here/cover.jpg"
 images:
   - "/images/works/i-have-to-leave-my-childhood-here/01.jpg"
   - "/images/works/i-have-to-leave-my-childhood-here/02.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/03.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/04.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/05.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/06.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/07.jpg"
+  - "/images/works/i-have-to-leave-my-childhood-here/08.jpg"
 shortDescription: "Melted plastic chair recovered from a missile-damaged home, bearing direct traces of violence."
 featured: true
 ---

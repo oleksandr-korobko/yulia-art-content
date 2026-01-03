@@ -9,6 +9,15 @@ images:
   - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/01.jpg"
   - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/02.jpg"
   - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/03.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/04.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/05.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/06.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/07.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/08.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/09.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/10.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/11.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home-ii/12.jpg"
 shortDescription: "Outdoor wallpaper installation with war-damaged cities, weighted with sandbags and a melted child's chair from Irpin."
 featured: false
 ---

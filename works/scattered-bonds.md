@@ -8,6 +8,8 @@ coverImage: "/images/works/scattered-bonds/cover.jpg"
 images:
   - "/images/works/scattered-bonds/01.jpg"
   - "/images/works/scattered-bonds/02.jpg"
+  - "/images/works/scattered-bonds/03.jpg"
+  - "/images/works/scattered-bonds/04.jpg"
 shortDescription: "Fractured coral necklace suspended above transparent surface, marking loss and displacement."
 featured: false
 ---

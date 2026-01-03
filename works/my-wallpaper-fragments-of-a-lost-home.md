@@ -9,6 +9,11 @@ images:
   - "/images/works/my-wallpaper-fragments-of-a-lost-home/01.jpg"
   - "/images/works/my-wallpaper-fragments-of-a-lost-home/02.jpg"
   - "/images/works/my-wallpaper-fragments-of-a-lost-home/03.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home/04.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home/05.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home/06.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home/07.jpg"
+  - "/images/works/my-wallpaper-fragments-of-a-lost-home/08.jpg"
 shortDescription: "Immersive wallpaper installation combining war-damaged Ukrainian cities with paintings, transforming trauma into domestic background."
 featured: true
 ---

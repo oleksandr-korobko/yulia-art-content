@@ -8,6 +8,9 @@ coverImage: "/images/works/in-another-realm/cover.jpg"
 images:
   - "/images/works/in-another-realm/01.jpg"
   - "/images/works/in-another-realm/02.jpg"
+  - "/images/works/in-another-realm/03.jpg"
+  - "/images/works/in-another-realm/04.jpg"
+  - "/images/works/in-another-realm/05.jpg"
 shortDescription: "Burned wood and lino print registering destruction of Ukrainian civilian architecture, with damage inscribed into material surface."
 featured: false
 ---
