@@ -11,3 +11,4 @@ This repository contains content (markdown files and images) for the Yulia Art p
 ## Editing
 
 When you push changes to this repository, the main website will automatically rebuild with your updates.
+Test auto-deploy
