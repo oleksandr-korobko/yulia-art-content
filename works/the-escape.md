@@ -1,20 +1,20 @@
 ---
 title: "The Escape"
 year: 2024
-categories: ["installations", "text-informed"]
-materials: "Mixed media, clothing, suitcase, stroller, personal belongings"
-dimensions: "Variable, approximately 3m × 2m × 2m"
+categories: ["installations"]
+materials: "Restored personal belongings, baby stroller, bags, jackets, coats, barbed wire, hangers"
+dimensions: "Variable"
 coverImage: "/images/works/the-escape/cover.jpg"
 images:
   - "/images/works/the-escape/01.jpg"
   - "/images/works/the-escape/02.jpg"
   - "/images/works/the-escape/03.jpg"
-shortDescription: "An installation exploring displacement and forced migration through personal belongings left behind."
+shortDescription: "Installation reconstructing personal belongings carried during forced displacement on February 24, 2022, suspended from barbed wire."
 featured: true
 ---
 
-The Escape captures a frozen moment of displacement—the instant when a family must abandon their home with only what they can carry. The installation features actual belongings: a stroller, children's clothing, winter coats, and a suitcase, arranged as shadows against a white wall.
+The Escape is an installation built from restored personal belongings carried by Yuliia Holovatiuk-Ungureanu and her children when they were forced to flee their home on February 24, 2022. Clothes, bags, and a baby stroller are suspended from barbed wire, reconstructing a moment of abrupt displacement and the material reality of leaving under threat. The objects are ordinary, yet charged by the circumstances that transformed them into necessities of survival.
 
-Each object carries the weight of memory and the trauma of forced departure. The deliberate arrangement creates ghostly silhouettes, suggesting presence through absence—the family is gone, but their traces remain.
+A coat taken in haste, a bag packed without certainty, a stroller intended for everyday walks – each item bears the imprint of urgency and fear. The act of restoration does not return these belongings to their former neutrality; instead, it exposes the tension between care and damage, preservation and loss. Barbed wire cuts through the installation as a material boundary, opposing intimacy with violence and underscoring the vulnerability of bodies and lives in transit.
 
-This work draws from the artist's personal experience of leaving Ukraine and witnessing countless others make the same impossible journey.
+The work reflects on forced migration as a rupture that redefines value, memory, and belonging. The Escape asks what remains essential when home is no longer a place but a condition of uncertainty, and how identity is carried through objects when continuity is broken. The installation frames survival not as abstraction, but as a lived, material experience shaped by constraint and resilience.
